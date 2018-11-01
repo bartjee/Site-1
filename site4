@@ -50,11 +50,11 @@
 <body>
   <header>
     <img src=>
-    <h1>Alles Over Pizza</h1>
+    <h1>Leuke Feitjes</h1>
     <ul>
       <li><a href="site1">home</a></li>
       <li><a href="site2">Geschiedenis</a></li>
-      <li><a href="site3">Soorten pizza's</a></li>
+      <li><a href="site3">Soorten Pizza's</a></li>
       <li><a href="site4">Leuke Feitjes</a></li>
     </ul>
   </header>
