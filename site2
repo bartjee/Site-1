@@ -53,9 +53,9 @@
     <h1>Geschiedenis</h1>
     <ul>
       <li><a href="site1">home</a></li>
-      <li><a href="#">Geschiedenis</a></li>
-      <li><a href="#">Soorten pizza's</a></li>
-      <li><a href="#">Leuke Feitjes</a></li>
+      <li><a href="site2">Geschiedenis</a></li>
+      <li><a href="site3">Soorten Pizza's</a></li>
+      <li><a href="site4">Leuke Feitjes</a></li>
     </ul>
   </header>
   <article>
