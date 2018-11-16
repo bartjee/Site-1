@@ -50,7 +50,7 @@
 <body>
   <header>
     <img src=>
-    <h1>Leuke Feitjes</h1>
+    <h1>Soorten Pizza's</h1>
     <ul>
       <li><a href="site1">home</a></li>
       <li><a href="site2">Geschiedenis</a></li>
@@ -59,24 +59,24 @@
     </ul>
   </header>
   <article>
-    <h2>Waarom mag ananas niet op pizza?</h2>
-    <p>Marfa church-key kitsch bicycle rights, 8-bit mixtape cardigan gentrify Echo Park. Street art swag brunch, next level roof party Schlitz hella organic keffiyeh selfies. You probably haven't heard of them polaroid hashtag +1, meggings biodiesel Portland High Life cray tumblr retro.</p>
-    <button>lees meer</button>
-  </article>
-  <article>
-    <h2>Waar komt pizza vandaan?</h2>
-    <p>Marfa church-key kitsch bicycle rights, 8-bit mixtape cardigan gentrify Echo Park. Street art swag brunch, next level roof party Schlitz hella organic keffiyeh selfies. You probably haven't heard of them polaroid hashtag +1, meggings biodiesel Portland High Life cray tumblr retro.</p>
-    <button>lees meer</button>
-  </article>
-  <article>
-    <h2>Welke pizza's zijn er eigenlijk?</h2>
-    <p>chambray you probably haven't heard of them pour-over viral selvage umami skateboard VHS post-ironic selfies. Wes Anderson gentrify fanny pack twee, bicycle rights bitters blog keffiyeh plaid flannel. Tonx irony cliche sustainable mlkshk bitters. Four loko leggings chambray Vice.</p>
-    <button>lees meer</button>
-  </article>
-  <article>
-    <h2>Wat weet ik allemaal nog niet over pizza?</h2>
-    <p>ethical thundercats sustainable locavore quinoa Neutra. Aesthetic tacky sweater single-origin coffee, bicycle rights organic lo-fi street art american apparel ennui four loko ethnic Brooklyn small batch. Forage YOLO polaroid</p>
-    <button>lees meer</button>
-  </article>
+    <h2>De klassieke italiaanse pizza's</h2>
+  <p>Een van de meest beruchte pizza’s is de pizza hawaii. Het is een normale pizza maar dan met ham en ananas, echter is er met de ham niet veel mis, het is de ananas die het probleem vormt. </p>
+  <button>lees meer</button>
+</article>
+<article>
+  <h2>De american style pizza's</h2>
+  <p>Zoals veel mensen al weten komt de pizza oorspronkelijk uit Italië.En na de massale emigratie naar amerika in de tweede helft van de 19de eeuw, werd de pizza ook daar steeds populairder </p>
+  <button>lees meer</button>
+</article>
+<article>
+  <h2>De vegetarische pizza’s</h2>
+  <p>Natuurlijk zijn er ook veel pizza’s die helemaal vegetarisch zijn. En de vele bekende pizza’s zijn ook vegetarisch.</p>
+  <button>lees meer</button>
+</article>
+<article>
+  <h2></h2>
+  <p></p>
+  <button>lees meer</button>
+</article>
 </body>
 </html>
